@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Interests
+I'm interested in learning how to use GitHub for more opportunities and learning how to code with more languages! 
+
+## Works
+I'm not working on anything at the moment, just trying to learn as much as I can and finish all of my work for classes.
+
+## Hobbies
+My favorite hobbies are playing Minecraft with my friends, listening to music, and watching basketball and football!
